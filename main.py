@@ -1,6 +1,6 @@
 import random
 
-wantedInt = int(input("Geben Sie Ihre gewünschte Zahl ein. Bitte nicht ihre IP!"))
+wantedInt = int(input("Geben Sie Ihre gewünschte Zahl ein"))
 
 
 row1 = ["O", "O", "O"]
