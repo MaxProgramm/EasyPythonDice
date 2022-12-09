@@ -36,7 +36,6 @@ def peter(randInt):
 
     return (row1, row2, row3)
 
-RandomInt = random.randrange(1, 7)
 
 while True:
     RandomInt = random.randrange(1, 7)
