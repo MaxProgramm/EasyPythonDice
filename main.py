@@ -1,6 +1,6 @@
 import random
 
-wantedInt = int(input("Geben Sie Ihre gewünschte Zahl ein"))
+wantedInt = int(input("Enter a number from 1 to 6"))
 
 
 row1 = ["O", "O", "O"]
